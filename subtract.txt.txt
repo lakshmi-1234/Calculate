@@ -1,0 +1,4 @@
+public subtract(int r, int y)
+{
+int g = r * y;
+}
